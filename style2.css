@@ -1,0 +1,13 @@
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+.A {
+  margin-bottom: 10px;
+}
+
+.year-separator {
+  height: 20px;
+  background-color: #f8f9fa;
+}
